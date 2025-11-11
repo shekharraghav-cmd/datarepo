@@ -1,11 +1,11 @@
-err
-3
-e
-reepeor
-er
-er
+git config merge.ff false
+git config --global merge.ff false
 re
 4
 5
 6
 6
+dfd
+dfddr
+
+dfddrdr
