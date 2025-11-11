@@ -1,11 +1,10 @@
 git config merge.ff false
 git config --global merge.ff false
-
-
 git config --global merge.ff false
 git config --global --get merge.ff
-re
-4
+
 5
-add
-dfddrdr
+5
+5
+5
+5
