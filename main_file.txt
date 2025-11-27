@@ -1,11 +1,17 @@
-deleted 5 lines
 git config merge.ff false
 git config --global merge.ff false
 git config --global merge.ff false
 git config --global --get merge.ff
-
+deleted 5 lines
 df
 data
 grt
 hellotry
-
+hello
+main
+data
+is 
+here
+erfr
+gtr
+helloty
