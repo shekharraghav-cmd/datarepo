@@ -1,10 +1,11 @@
-hello
-main
-data
-is 
-here
+deleted 5 lines
 git config merge.ff false
 git config --global merge.ff false
 git config --global merge.ff false
 git config --global --get merge.ff
+
+df
+data
+grt
+hellotry
 
